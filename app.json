@@ -1,13 +1,13 @@
 {
-    "name": "Transfer.sh_Bot",
+    "name": "qrtest",
     "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
     "keywords": [
         "telegram",
         "link",
-        "transfer.sh"
+        "qr"
     ],
-    "website": "https://github.com/TG-AI/transfer.sh-bot",
-    "repository": "https://github.com/TG-AI/transfer.sh-bot",
+    "website": "https://github.com/TG-AI/QRCode-Telegram-bot",
+    "repository": "https://github.com/TG-AI/QRCode-Telegram-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
