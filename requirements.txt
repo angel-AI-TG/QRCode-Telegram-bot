@@ -1,3 +1,4 @@
+pyrogram
 telegraph
 tgcrypto
 pyqrcode 
